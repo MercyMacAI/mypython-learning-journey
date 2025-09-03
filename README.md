@@ -8,11 +8,12 @@ The goal of this repo is to track my learning progress, showcase my hands-on pra
 ## Repository Structure
 
 ### Notebooks # Jupyter notebooks for each topic
-│   ├── 01_basics.ipynb
-│   ├── 02_data_structures.ipynb
-│   ├── 03_operators.ipynb
-│   ├── 04_functions.ipynb
-│   ├── 05_oop.ipynb
+
+01_operators.ipynb
+
+02_methods & functions.ipynb
+
+03_oop.ipynb
 │   └── ...
 │
 ├── exercises/                 # Practice problems and coding challenges
