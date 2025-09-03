@@ -18,7 +18,19 @@ The goal of this repo is to track my learning progress, showcase my hands-on pra
  └── ...
 
 ### projects               # Mini Python projects I build along the way
-│
 
 
-### README.md                  # Repo overview
+## Tools & Technologies
+
+Python 3.x
+
+Anaconda
+
+Jupyter Notebook
+
+Pandas, NumPy, Matplotlib (as I progress)
+
+Git & GitHub for version control
+
+
+## README.md                  # Repo overview
