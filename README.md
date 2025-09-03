@@ -5,7 +5,7 @@ I’m currently following the “Complete Python Bootcamp: From Zero to Hero” 
 
 The goal of this repo is to track my learning progress, showcase my hands-on practice notebooks, and share code snippets related to AI, Data Science, Machine Learning, and automation concepts as I advance in my AI roadmap.
 
-##Repository Structure
+#Repository Structure
 
 mypython-learning-journey/
 │
