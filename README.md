@@ -19,6 +19,6 @@ The goal of this repo is to track my learning progress, showcase my hands-on pra
 
 ### projects               # Mini Python projects I build along the way
 │
-├── resources/                 # Cheat sheets, learning notes, and docs
-│
-└── README.md                  # Project overview and progress tracker
+
+
+### README.md                  # Repo overview
