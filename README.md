@@ -56,7 +56,7 @@ Git & GitHub for version control
 
 ##### 🧠 Humans In AI Community → https://www.linkedin.com/groups/9539359/
 
-##### 🐙 GitHub → https://github.com/mercyfred
+##### 🐙 GitHub → https://github.com/MercyMacAI
 
 ## 🤝 Contribution & Collaboration
 
