@@ -35,28 +35,28 @@ Git & GitHub for version control
 
 ## 🚀 Next Steps
 
-### After completing this Python course, my roadmap includes:
+##### After completing this Python course, my roadmap includes:
 
-### Mastering SQL → (The Complete SQL Bootcamp by Jose Portilla)
+##### Mastering SQL → (The Complete SQL Bootcamp by Jose Portilla)
 
-### API Development → (FastAPI – Beginner to Advanced)
+##### API Development → (FastAPI – Beginner to Advanced)
 
-### Machine Learning Specialization → (DeepLearning.AI)
+##### Machine Learning Specialization → (DeepLearning.AI)
 
-### Deep Learning Specialization → (Neural Networks & CNNs)
+##### Deep Learning Specialization → (Neural Networks & CNNs)
 
-### Generative AI with LLMs → (DeepLearning.AI)
+##### Generative AI with LLMs → (DeepLearning.AI)
 
-### MLOps Specialization → (End-to-end model deployment)
+##### MLOps Specialization → (End-to-end model deployment)
 
 
 ## 🌍 Connect With Me
 
-### 💼 LinkedIn → https://www.linkedin.com/in/mercyakachukwu
+##### 💼 LinkedIn → https://www.linkedin.com/in/mercyakachukwu
 
-### 🧠 Humans In AI Community → https://www.linkedin.com/groups/9539359/
+##### 🧠 Humans In AI Community → https://www.linkedin.com/groups/9539359/
 
-### 🐙 GitHub → https://github.com/mercyfred
+##### 🐙 GitHub → https://github.com/mercyfred
 
 ## 🤝 Contribution & Collaboration
 
