@@ -7,18 +7,17 @@ The goal of this repo is to track my learning progress, showcase my hands-on pra
 
 ## Repository Structure
 
-### Notebooks # Jupyter notebooks for each topic
+### Notebooks # Jupyter notebooks with coding challenges  
 
 01_operators.ipynb
 
 02_methods & functions.ipynb
 
 03_oop.ipynb
-│   └── ...
-│
-├── exercises/                 # Practice problems and coding challenges
-│
-├── projects/                  # Mini Python projects I build along the way
+
+ └── ...
+
+### projects               # Mini Python projects I build along the way
 │
 ├── resources/                 # Cheat sheets, learning notes, and docs
 │
