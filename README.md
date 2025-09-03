@@ -9,9 +9,11 @@ The goal of this repo is to track my learning progress, showcase my hands-on pra
 
 ### Notebooks # Jupyter notebooks with coding challenges  
 
-01_operators.ipynb
+01_my python learning journey notebook 1
 
-02_methods & functions.ipynb
+02_my python learning journey notebook 2
+
+03_methods & functions.ipynb
 
 03_oop.ipynb
 
